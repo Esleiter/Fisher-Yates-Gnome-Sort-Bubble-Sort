@@ -1,5 +1,5 @@
 /* 
-Evaluación para Programación No Numérica II 
+Evaluación - Programación No Numérica II 
 I.U.P "Santiago Mariño" extensión Maracay
 
 Algoritmos:
